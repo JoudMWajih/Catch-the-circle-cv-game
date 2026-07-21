@@ -43,10 +43,4 @@ The goal of the project is to practice basic computer vision concepts in a fun a
 8. The circle moves to a new random position.
 9. The timer continues counting down until the game ends.
 
-## Project Files
 
-```text
-catch-the-circle-cv-game/
-├── main.py
-├── requirements.txt
-└── README.md
